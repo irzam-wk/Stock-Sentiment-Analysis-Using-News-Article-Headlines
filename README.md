@@ -6,5 +6,5 @@ The Data has 2 labels -
   Class 0 → the stock price stayed the same or decreased.
 Two Models were used for training -
   Random Forest Classifier
-  Bag of Words Model
+  TF-IDF Technique
 Model Performance was exhibited using the Confusion Matrix.
